@@ -46,7 +46,7 @@ whatsapp-chat-analyzer/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yadvi30/whatsapp-chat-analyzer.git
+git clone https://github.com/Yadvi30/whatsapp-chat-analyzer.git
 cd whatsapp-chat-analyzer
 ```
 
